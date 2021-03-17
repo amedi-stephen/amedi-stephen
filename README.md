@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @steveamedi
 - 👀 I’m interested in any code of interest
 - 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate and absorb and learn from the community 
+- 💞️ I’m looking to collaborate and learn a lot from the community 
 - 📫 How to reach me: my twitter account @edisteve_am
 
 <!---
